@@ -30,4 +30,4 @@ To meet the acceptance criteria, I changed the following:
 -  Refactored & consalidated css
 -  Made sure that overall it had a logical structure independent of styling and positioning
 
-[Link to deployed application]()
+[Link to deployed application](https://izzie2021.github.io/Code-Refactor/)
